@@ -24,3 +24,4 @@ document.getElementById('btn-subtract')
 
 document.getElementById('btn-multiply')
   .addEventListener('click', () => calculateAndDisplay(multiply));
+
